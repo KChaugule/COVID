@@ -1,0 +1,26 @@
+name,date,symptoms,probability,result,afterTest,confirm
+krishna,2022-05-14,"['a', 'b', 'c']",34.42,True,True,True
+prashant,2022-05-14,"['b', 'c']",22.73,True,False,False
+kajal,2022-05-14,"['j', 'k']",11.68,False,False,True
+person,2022-05-14,"['a', 'b']",22.08,True,True,True
+kar,2022-05-14,"['a', 'b', 'c', 'd', 'e']",50.65,True,True,True
+drums,2022-05-14,"['a', 'b', 'c']",34.42,True,False,False
+katniss everdeen,2022-05-14,"['a', 'b', 'c']",34.42,True,False,False
+feyre,2022-05-14,"['a', 'd', 'f']",27.919999999999998,True,True,True
+rhysand,2022-05-14,['h'],10.39,False,False,True
+peeta,2022-05-14,"['a', 'j', 'k', 'f', 'i']",38.3,True,True,True
+grace foster,2022-05-14,"['d', 'h']",18.83,False,False,True
+hudson vega,2022-05-14,"['a', 'f', 'h']",29.87,True,True,True
+jaxon vega,2022-05-14,"['c', 'e', 'g', 'k']",38.31,True,True,True
+harry potter,2022-05-14,"['a', 'j', 'k']",23.37,True,True,True
+harry styles,2022-05-14,"['a', 'b', 'c']",34.42,True,True,True
+hermione granger,2022-05-14,"['j', 'a']",17.53,False,False,True
+ronald weasley,2022-05-14,"['a', 'b', 'j', 'k']",33.76,True,True,True
+dumbledore,2022-05-14,"['a', 'b', 'c', 'd', 'e', 'f', 'g']",70.78,True,False,False
+atticus finch,2022-05-14,"['a', 'b', 'c', 'd', 'e']",50.65,True,True,True
+kaz,2022-05-14,"['a', 'b', 'c']",34.42,True,True,True
+kara,2022-05-15,"['a', 'b', 'c']",34.42,True,,False
+sarah,2022-05-15,[],0,False,True,False
+john,2022-05-15,"['a', 'b']",22.08,True,True,True
+jumprope,2022-05-15,"['a', 'k']",17.53,False,False,True
+joker,2022-05-15,"['a', 'c', 'h']",34.42,True,True,True
